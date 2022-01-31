@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=spring-rentalapp-jdbc/C:\/Users\/NiranjanRamakrishna\/Downloads\/sts-4.12.1.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.0.v20211012-1059\/jre\/lib\/jrt-fs.jar`java.base=/maven.pomderived=/true=/&lt;java.lang(RuntimeException.class[RuntimeException" modifiers="33" timestamp="1638165222976"/>
+    <typeInfo handle="=spring-rentalapp-jdbc/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.rentalapp.repository{IRentalPropertyRepository.java[IRentalPropertyRepository" modifiers="513" timestamp="1638350194664"/>
+    <typeInfo handle="=spring-vaccinationapp-jdbc/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.vaccinationapp.repository{ICovidVaccinationRepository.java[ICovidVaccinationRepository" modifiers="513" timestamp="1640525415733"/>
+    <typeInfo handle="=spring-vaccinationapp-jdbc/C:\/Users\/NiranjanRamakrishna\/Downloads\/sts-4.12.1.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.0.v20211012-1059\/jre\/lib\/jrt-fs.jar`java.desktop=/maven.pomderived=/true=/&lt;javax.swing(Icon.class[Icon" modifiers="1537" timestamp="1638165222976"/>
+    <typeInfo handle="=spring-datajpa-onetoone/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.studentapp.service{IStudentService.java[IStudentService" modifiers="513" timestamp="1638857519617"/>
+    <typeInfo handle="=spring-datajpa-onetoone-employee/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.employeeapp.service{IEmployeeService.java[IEmployeeService" modifiers="513" timestamp="1638839946505"/>
+</typeInfoHistroy>

@@ -1,0 +1,11 @@
+package com.assign.autowiring;
+
+public class BasketBall implements Sports{
+
+	@Override
+	public void showLeagueDetails() {
+		
+		
+	}
+
+}

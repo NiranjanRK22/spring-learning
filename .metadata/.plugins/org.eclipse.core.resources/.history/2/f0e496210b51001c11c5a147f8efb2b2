@@ -1,0 +1,8 @@
+package com.assign.autowiring;
+
+public class League {
+    private Sports sports;
+    void printLeague()  {
+    	
+    }
+}

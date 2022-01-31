@@ -1,0 +1,33 @@
+package com.assign.autowiring;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.stereotype.Component;
+
+@Component
+public class League {
+	
+	@Autowired
+	@Qualifier("cricket")
+    private Sports cricketSport;
+    
+	@Autowired
+	@Qualifier("football")
+    private Sports footballSport;
+    
+	@Autowired
+	@Qualifier("basketball")
+    private Sports basketballSport;
+    
+    public void printLeague(String sport)  {
+    	if (sport.equals("cricket"))  {
+    		cricketSport.showLeagueDetails();
+    	}
+    	if (sport.equals("basketball"))  {
+    		basketballSport.showLeagueDetails();
+    	}
+    	if (sport.equals("football"))  {
+    		footballSport.showLeagueDetails();
+    	}
+    }
+}

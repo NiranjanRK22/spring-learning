@@ -1,0 +1,11 @@
+package com.assign.autowiring;
+
+public class Cricket implements Sports{
+
+	@Override
+	public void showLeagueDetails() {
+		
+		
+	}
+
+}
